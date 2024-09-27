@@ -18,10 +18,6 @@ My name is Ruhama, I'm an AI Engineer and I'm interested in all the things Pytho
 <img src="https://komarev.com/ghpvc/?username=ruhamamansoor&&style=flat-square" align="center" />
 </div>  
 
-## My Skill Set  
-<div align="center">
-
-
 
 ### Languages  
 <div align="center">  
