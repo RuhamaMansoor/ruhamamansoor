@@ -1,9 +1,5 @@
-Here is the corrected version of the code based on your request to remove lines and replace "Frontend" with "Languages":
-
-```html
-### <div align="center">Hi there 👋</div>  
+### Hi there 👋 
   
-
 My name is Ruhama, I'm an AI Engineer and I'm interested in all the things Python and Data Science!  
   
 
