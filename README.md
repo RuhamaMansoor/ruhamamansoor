@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+My name is Ruhama, I'm an AI Enginner and I'm interseted in all the things Python and Data Science!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Generative AI ,Computer Vision and  Deep learning
+- 😄 I have built alots of AI solutions
+- 🌱 I’m passionate to learning in more about AI
+
 
 
 <!--
