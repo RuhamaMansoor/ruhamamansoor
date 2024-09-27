@@ -1,6 +1,6 @@
 ### Hi there 👋 
   
-My name is Ruhama, I'm an AI Engineer and I'm interested in all the things Python and Data Science!  
+My name is Ruhama, I'm an AI Engineer and I'm interested in all the things of Python and Data Science!  
   
 
 - 👩‍💻 I’m currently working on Generative AI, Computer Vision, and Deep Learning  
