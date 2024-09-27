@@ -5,7 +5,18 @@ My name is Ruhama, I'm an AI Engineer and I'm interseted in all the things Pytho
 - 🔭 I’m currently working on Generative AI ,Computer Vision and  Deep learning
 - 😄 I have built alots of AI solutions
 - 🌱 I’m passionate to learning in more about AI
+<h1 align="left">Hey 👋 What's up?</h1>
 
+### <h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
 
 
 <!--
