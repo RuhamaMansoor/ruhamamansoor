@@ -4,13 +4,13 @@
 My name is Ruhama, I'm an AI Engineer and I'm interested in all the things Python and Data Science!  
   
 
-- 👩‍💻 I’m currently working on Generative AI ,Computer Vision and  Deep learning  
+- 👩‍💻 I’m currently working on Generative AI, Computer Vision, and Deep Learning  
   
 
-- 😀  I have built a lots of AI solutions  
+- 😀 I have built a lot of AI solutions  
   
 
-- ⚡  I’m passionate to learning in more about AI  
+- ⚡ I’m passionate about learning more about AI  
   
 
 <br/>  
@@ -41,36 +41,12 @@ My name is Ruhama, I'm an AI Engineer and I'm interested in all the things Pytho
 <br/>  
 
 
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ruhamamansoor&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
