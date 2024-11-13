@@ -18,7 +18,12 @@ style="font-style: italic"
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruhamamansoor&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruhamamansoor&layout=compact&langs_count=8&theme=bear)
 
+### 💻 Technologies & Libraries I Work With:
+- **Languages:** Python, C++, JavaScript
+- **Libraries & Frameworks:** TensorFlow, OpenCV, PyTorch, Keras
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ruhamamansoor&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-e&no-bg=false&margin-w=4)
+
