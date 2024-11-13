@@ -14,6 +14,30 @@ My name is Ruhama, I'm an AI Engineer, and I'm interested in all things Python a
     <img src="https://img.shields.io/badge/ITUB%20Status-Active-brightgreen?style=flat-square" align="center" alt="ITUB Status"/>
 </div>
 
+### GitHub Stats:
+<div align="center">
+    <table>
+        <tr>
+            <td><b>Total Stars Earned:</b> 90</td>
+            <td><b>Total Commits:</b> 221</td>
+            <td><b>Total PRs:</b> 2</td>
+            <td><b>Total Issues:</b> 1</td>
+            <td><b>Contributed to (last year):</b> 0</td>
+            <td><img src="https://img.shields.io/badge/Grade-B--lightgrey" alt="B-" style="border-radius: 10px;"/></td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><b>506</b><br>Total Contributions</td>
+            <td align="center"><b>0</b><br>Current Streak</td>
+            <td align="center"><b>20</b><br>Longest Streak</td>
+        </tr>
+    </table>
+</div>
+
 ### Languages  
 <div align="center">  
     <a href="https://www.python.org/" target="_blank">
