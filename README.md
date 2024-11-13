@@ -16,10 +16,6 @@ style="font-style: italic"
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ruhamamansoor&theme=bear&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruhamamansoor&theme=bear&hide_border=false)
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruhamamansoor&layout=compact&langs_count=8&theme=bear)
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ruhamamansoor&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
