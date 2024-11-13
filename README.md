@@ -1,52 +1,24 @@
-### Hi there 👋 
-
-My name is Ruhama, I'm an AI Engineer, and I'm interested in all things Python and Data Science!
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ruhama Mansoor</h1>
+<h3 align="center"
+style="font-style: italic"
+>(AI Engineer)</h3>
 - 👩‍💻 I’m currently working on Generative AI, Computer Vision, and Deep Learning  
 - 😀 I have built numerous AI solutions  
 - ⚡ I’m passionate about learning more about AI  
 
-<br/>  
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ruhamamansoor&&style=flat-square" align="center" />
-    <img src="https://img.shields.io/badge/ITUB%20Trophy-Gold-brightgreen?style=flat-square" align="center" alt="ITUB Trophy"/>
-    <img src="https://img.shields.io/badge/ITUB%20Status-Active-brightgreen?style=flat-square" align="center" alt="ITUB Status"/>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhama-mansoor/) 
 
-### GitHub Stats:
-<div align="center">
-    <table>
-        <tr>
-            <td><b>Total Stars Earned:</b> 90</td>
-            <td><b>Total Commits:</b> 221</td>
-            <td><b>Total PRs:</b> 2</td>
-            <td><b>Total Issues:</b> 1</td>
-            <td><b>Contributed to (last year):</b> 0</td>
-            <td><img src="https://img.shields.io/badge/Grade-B--lightgrey" alt="B-" style="border-radius: 10px;"/></td>
-        </tr>
-    </table>
-</div>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
-<div align="center">
-    <table>
-        <tr>
-            <td align="center"><b>506</b><br>Total Contributions</td>
-            <td align="center"><b>0</b><br>Current Streak</td>
-            <td align="center"><b>20</b><br>Longest Streak</td>
-        </tr>
-    </table>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ruhamamansoor&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ruhamamansoor&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruhamamansoor&layout=compact&langs_count=8&theme=bear)
 
-### Languages  
-<div align="center">  
-    <a href="https://www.python.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-    </a>  
-    <a href="https://opencv.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
-    </a>  
-    <a href="https://www.tensorflow.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
-    </a>  
-</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ruhamamansoor&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+e&no-bg=false&margin-w=4)
