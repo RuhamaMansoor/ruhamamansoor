@@ -14,13 +14,9 @@ style="font-style: italic"
 <!--END_SECTION:badges-->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ruhamamansoor&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruhamamansoor&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ruhamamansoor&theme=bear&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ruhamamansoor&theme=bear&hide_border=false)
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruhamamansoor&layout=compact&langs_count=8&theme=bear)
-
-### 💻 Technologies & Libraries I Work With:
-- **Languages:** Python, C++, JavaScript
-- **Libraries & Frameworks:** TensorFlow, OpenCV, PyTorch, Keras
 
 
 
